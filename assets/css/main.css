@@ -2919,9 +2919,9 @@
 
 	#banner {
 		padding: 8em 0 9em 0;
-		background-image: url(../../images/empireeast.jpg);
+		background-image: url(../../empireeast.png);
 		background-size: cover;
-		background-position: bottom;
+		background-position: left;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
